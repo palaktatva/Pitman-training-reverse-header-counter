@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Gotham Book';
+    src: url('GothamBook.eot');
+    src: url('GothamBook.eot?#iefix') format('embedded-opentype'),
+        url('GothamBook.woff2') format('woff2'),
+        url('GothamBook.woff') format('woff'),
+        url('GothamBook.ttf') format('truetype'),
+        url('GothamBook.svg#GothamBook') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Book';
+    src: url('Gotham-Light.eot');
+    src: url('Gotham-Light.eot?#iefix') format('embedded-opentype'),
+        url('Gotham-Light.woff2') format('woff2'),
+        url('Gotham-Light.woff') format('woff'),
+        url('Gotham-Light.ttf') format('truetype'),
+        url('Gotham-Light.svg#Gotham-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Book';
+    src: url('GothamMedium.eot');
+    src: url('GothamMedium.eot?#iefix') format('embedded-opentype'),
+        url('GothamMedium.woff2') format('woff2'),
+        url('GothamMedium.woff') format('woff'),
+        url('GothamMedium.ttf') format('truetype'),
+        url('GothamMedium.svg#GothamMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Book';
+    src: url('GothamBold.eot');
+    src: url('GothamBold.eot?#iefix') format('embedded-opentype'),
+        url('GothamBold.woff2') format('woff2'),
+        url('GothamBold.woff') format('woff'),
+        url('GothamBold.ttf') format('truetype'),
+        url('GothamBold.svg#GothamBold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
